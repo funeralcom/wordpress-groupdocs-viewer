@@ -1,13 +1,13 @@
-wordpress-groupdocs-viewer
-==========================
-
 GroupDocs Embedded Viewer plugin for WordPress
+=========================
+
+With GroupDocs Viewer plugin for WordPress you can easily [view PDF, Word, Excel and Powerpoint documents online](http://groupdocs.com/apps/viewer) with the GroupDocs Embedded Viewer tool, directly from within your WordPress powered website.
+
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-1. [Sign documents online with GroupDocs Signature](http://groupdocs.com/apps/signature)
-2. [PDF, Word and Image Annotation with GroupDocs Annotation](http://groupdocs.com/apps/annotation)
-3. [Online DOC, DOCX, PPT Document Comparison with GroupDocs Comparison](http://groupdocs.com/apps/comparison)
-4. [Online Document Management with GroupDocs Dashboard](http://groupdocs.com/apps/dashboard)
-5. [Doc to PDF, Doc to Docx, PPT to PDF, and other Document Conversions with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
-6. [Online Document Automation with GroupDocs Assembly](http://groupdocs.com/apps/assembly)
+* [View PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
+* [Download Viewer plugin package here](https://github.com/groupdocs/wordpress-groupdocs-viewer)
+* [Embed DOC, DOCX, PDF Viewer in your WordPress CMS website] (http://wordpress.org/extend/plugins/groupdocs-viewer/)
+* [See source code for GroupDocs Viewer plugin for WordPress](https://github.com/groupdocs/wordpress-groupdocs-viewer-source)
 
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
